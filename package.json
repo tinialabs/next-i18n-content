@@ -1,0 +1,27 @@
+{
+  "name": "next-i18n-content",
+  "version": "1.0.0",
+  "description": "Load locales directly from /content/locales folder",
+  "license": "MIT",
+  "repository": "tinialabs/next-i18n-content",
+  "author": "guy@tinia.org",
+  "homepage": "https://github.com/tinialabs/next-i18n-content",
+  "main": "plugin.js",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "scripts": {},
+  "files": [
+    "plugin.js"
+  ],
+  "peerDependencies": {},
+  "dependencies": {
+    "js-yaml": "^4.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "i18n",
+    "nextjs",
+    "novela"
+  ]
+}
